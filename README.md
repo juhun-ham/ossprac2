@@ -2,3 +2,8 @@
 ## My First Repo
  - Date: 2025.3.24 16   
     - Author: Juhun Ham  
+    - Subject: OSS Practice
+
+## OSSPrac
+fetch & merge
+A
